@@ -1,0 +1,7 @@
+.footernav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.footernav ul li:hover a{
+    color: blue;
+}
